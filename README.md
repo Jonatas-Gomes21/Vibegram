@@ -19,6 +19,8 @@ Além disso, ela poderá ser usada como base para aplicações maiores no futuro
 
 ### 📌 Página de Login  
 ![Vibegram Login](assets/images/preview/vibegram-login.png)
+### 📌 Página de Cadastro  
+![Vibegram Cadastro](assets/images/preview/vibegram-cadastro.png)
 
 ---
 
@@ -27,7 +29,7 @@ Além disso, ela poderá ser usada como base para aplicações maiores no futuro
 - ⚙️ **HTML5** – Estrutura semântica da página  
 - 🎨 **CSS3** – Estilização com foco em responsividade e fidelidade visual  
 - 💻 **Design Responsivo** – Compatível com desktop e mobile  
-- ☁️ **Hospedagem** – Vercel (ou Netlify)
+- ☁️ **Hospedagem** – Netlify
 
 ---
 
